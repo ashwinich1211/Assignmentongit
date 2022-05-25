@@ -1,5 +1,4 @@
-
-1 . mkdir Assignments
+mkdir Assignments
 2 .cd Assignments/
 3 .touch README.txt
 4 .git add -A
@@ -33,4 +32,3 @@ git commit -m "final commit in css branch modified cssfile"
 git checkout master
 git merge css-assignments
 git branch
-
